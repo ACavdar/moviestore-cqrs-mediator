@@ -1,6 +1,6 @@
 # Movie Store 
 
-A simple project to demonstrate CQRS and Mediator Behavioral Design Pattern. In this project I will be folloing the guidelines of Jason Taylor's Clean Architecture solution template (https://github.com/jasontaylordev/CleanArchitecture#readme).
+A simple project to demonstrate CQRS and Mediator Behavioral Design Pattern. In this project I will be folloing the guidelines of Jason Taylor's Clean Architecture solution template (https://github.com/jasontaylordev/CleanArchitecture).
 
 ## Technologies 
 
